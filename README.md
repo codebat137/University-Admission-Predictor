@@ -18,4 +18,4 @@ The Columns are as follows:-
 I've used Linear Regression, ANN, Decision Tree Regressor as well as Random Forest Regressor to fit
 a model to predict the chance of Admission. 
 
-App Folder - A simpe streamlit app that takes in input from the user and displays the chance of Admit.
+App Folder - A simple streamlit web-app that takes in input from the user and displays the chance of Admit.
